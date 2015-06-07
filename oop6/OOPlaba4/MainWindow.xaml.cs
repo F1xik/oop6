@@ -49,6 +49,7 @@ namespace OOPlaba4
         ObservableCollection<Weapon> weapons2 = new ObservableCollection<Weapon>();
         ObservableCollection<TegForExtensions.Extension> extensions = new ObservableCollection<TegForExtensions.Extension>();
         Type[] hashTypes;
+        
         public MainWindow()
         {   
             InitializeComponent();
@@ -118,9 +119,25 @@ namespace OOPlaba4
         //call methods of checking CRC
         private void ActivateCompareCRCPlugins()
         {
-            
-            foreach (var plugin in comparerPlugins)
-                MessageBox.Show("CRC is Correct? " + plugin.ChkSumCompare("test.txt").ToString());
+            //the example of Iterator
+            /*foreach (var plugin in comparerPlugins)
+                MessageBox.Show("CRC is Correct? " + plugin.ChkSumCompare("test.txt").ToString());*/
+            IEnumerator<int> enumerator = Enumerable.Range(0, comparerPlugins.Count).GetEnumerator();
+            try
+            {
+                while (enumerator.MoveNext())
+                {
+                   
+                    MessageBox.Show("CRC is Correct?" + comparerPlugins[enumerator.Current].ChkSumCompare("test.txt").ToString());
+                }
+            }
+            finally
+            {
+                if (enumerator != null)
+                {
+                    enumerator.Dispose();
+                }
+            }
             
         }
 
@@ -177,7 +194,7 @@ namespace OOPlaba4
             ActivateSaveCRCPlugins();
             FileStream stream;
             stream = File.Open("BsonFile", FileMode.OpenOrCreate, FileAccess.Write);
-
+            //the example of "Resource Acquisition Is Initialization" or "RAII"
             using (BsonWriter bsonWriter = new BsonWriter(stream))
             {
                 jsonSerializer.TypeNameHandling = TypeNameHandling.All;
