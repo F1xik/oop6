@@ -1,0 +1,36 @@
+﻿<Window x:Class="OOPlaba4.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="500" Width="700">
+    <Canvas Margin="0,0,521,213">
+        <ListBox x:Name="WeaponsList" Height="200" Canvas.Top="20" Width="213" IsSynchronizedWithCurrentItem="True" Canvas.Left="20"/>
+        <Grid Name="HollowCreation" DataContext="{Binding ElementName=HollowsList, Path=SelectedItem}" Canvas.Right="350" Canvas.Top="20"/>
+        <Button x:Name="GetListOfHollows"  Content="List of extensions" Canvas.Left="247" Canvas.Top="139" Width="120" Click="GetListOfWeapons_Click"/>
+        <Button x:Name="Serialization" Content="Serialize list" Canvas.Left="247" Canvas.Top="161" Width="120" Click="Serialization_Click"/>
+        <Button x:Name="Deserialization" Content="Deserialize &quot;BsonFile&quot;" Canvas.Left="247" Canvas.Top="183" Width="120" Click="Deserialization_Click"/>
+        <ListBox x:Name="WeaponsTypes" Height="200" Canvas.Left="20" Canvas.Top="255" Width="213"/>
+        <Button x:Name="AddToHollowsList" Content="Add object to list" Canvas.Left="247" Canvas.Top="117" Width="120" Click="AddToHollowsList_Click"/>
+        <Grid x:Name="Fields" Canvas.Left="500" Canvas.Top="20">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="auto"></ColumnDefinition>
+                <ColumnDefinition Width="auto"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+        </Grid>
+        <Button x:Name="Edit" Content="Edit object" Canvas.Left="247" Canvas.Top="94" Width="120" Click="Edit_Click" RenderTransformOrigin="0.5,0.5">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleX="-0.133"/>
+                    <RotateTransform Angle="0.086"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+        <ListBox  x:Name="DsrlzList" Height="200" Canvas.Left="247" Canvas.Top="255" Width="213" RenderTransformOrigin="0.502,0.57"/>
+        <Label Content="objects" Canvas.Left="20" Canvas.Top="-6"/>
+        <Label Content="finded extensions" Canvas.Left="20" Canvas.Top="229"/>
+        <Label Content="deserialized objects&#xD;&#xA;" Canvas.Left="247" Canvas.Top="229" Height="26"/>
+        <ListBox x:Name="listOfExtensions" Height="200" Canvas.Left="500" Canvas.Top="255" Width="169"/>
+        <Button Content="add hash plugin" Canvas.Left="247" Canvas.Top="41" Width="114" Click="Button_Click"/>
+    </Canvas>
+</Window>

@@ -1,0 +1,135 @@
+c:\users\максим\documents\visual studio 2013\Projects\OOPlaba4\OOPlaba4\bin\Debug\OOPlaba4.exe.config
+c:\users\максим\documents\visual studio 2013\Projects\OOPlaba4\OOPlaba4\obj\Debug\OOPlaba4.csprojResolveAssemblyReference.cache
+c:\users\максим\documents\visual studio 2013\Projects\OOPlaba4\OOPlaba4\obj\Debug\MainWindow.baml
+c:\users\максим\documents\visual studio 2013\Projects\OOPlaba4\OOPlaba4\obj\Debug\MainWindow.g.cs
+c:\users\максим\documents\visual studio 2013\Projects\OOPlaba4\OOPlaba4\obj\Debug\App.g.cs
+c:\users\максим\documents\visual studio 2013\Projects\OOPlaba4\OOPlaba4\obj\Debug\OOPlaba4_MarkupCompile.cache
+c:\users\максим\documents\visual studio 2013\Projects\OOPlaba4\OOPlaba4\obj\Debug\OOPlaba4.g.resources
+c:\users\максим\documents\visual studio 2013\Projects\OOPlaba4\OOPlaba4\obj\Debug\OOPlaba4.Properties.Resources.resources
+c:\users\максим\documents\visual studio 2013\Projects\OOPlaba4\OOPlaba4\obj\Debug\OOPlaba4.csproj.GenerateResource.Cache
+C:\Users\Максим\Documents\Visual Studio 2013\Projects\OOPlaba4\OOPlaba4\bin\Debug\OOPlaba4.exe
+C:\Users\Максим\Documents\Visual Studio 2013\Projects\OOPlaba4\OOPlaba4\bin\Debug\OOPlaba4.pdb
+C:\Users\Максим\Documents\Visual Studio 2013\Projects\OOPlaba4\OOPlaba4\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Максим\Documents\Visual Studio 2013\Projects\OOPlaba4\OOPlaba4\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Максим\Documents\Visual Studio 2013\Projects\OOPlaba4\OOPlaba4\obj\Debug\OOPlaba4.exe
+C:\Users\Максим\Documents\Visual Studio 2013\Projects\OOPlaba4\OOPlaba4\obj\Debug\OOPlaba4.pdb
+c:\Users\Максим\Documents\Visual Studio 2013\Projects\OOPlaba4\OOPlaba4\bin\Debug\Hollow.dll
+C:\Users\Максим\Documents\Visual Studio 2013\Projects\OOPlaba4\OOPlaba4\bin\Debug\Gillian.dll
+C:\Users\Андрей\Desktop\OOPlaba4\OOPlaba4\bin\Debug\OOPlaba4.exe.config
+C:\Users\Андрей\Desktop\OOPlaba4\OOPlaba4\obj\Debug\OOPlaba4.exe
+C:\Users\Андрей\Desktop\OOPlaba4\OOPlaba4\obj\Debug\OOPlaba4.pdb
+C:\Users\Андрей\Desktop\OOPlaba4\OOPlaba4\bin\Debug\OOPlaba4.exe
+C:\Users\Андрей\Desktop\OOPlaba4\OOPlaba4\bin\Debug\OOPlaba4.pdb
+C:\Users\Андрей\Desktop\OOPlaba4\OOPlaba4\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Андрей\Desktop\OOPlaba4\OOPlaba4\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Андрей\Desktop\OOPlaba4\OOPlaba4\obj\Debug\OOPlaba4.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Desktop\OOPlaba4\OOPlaba4\obj\Debug\MainWindow.baml
+C:\Users\Андрей\Desktop\OOPlaba4\OOPlaba4\obj\Debug\MainWindow.g.cs
+C:\Users\Андрей\Desktop\OOPlaba4\OOPlaba4\obj\Debug\App.g.cs
+C:\Users\Андрей\Desktop\OOPlaba4\OOPlaba4\obj\Debug\OOPlaba4_MarkupCompile.cache
+C:\Users\Андрей\Desktop\OOPlaba4\OOPlaba4\obj\Debug\OOPlaba4.g.resources
+C:\Users\Андрей\Desktop\OOPlaba4\OOPlaba4\obj\Debug\OOPlaba4.Properties.Resources.resources
+C:\Users\Андрей\Desktop\OOPlaba4\OOPlaba4\obj\Debug\OOPlaba4.csproj.GenerateResource.Cache
+C:\Users\Андрей\Desktop\OOPlaba4\OOPlaba4\bin\Debug\Weapons.dll
+C:\Users\Андрей\Desktop\OOPlaba4\OOPlaba4\bin\Debug\Weapons.pdb
+C:\Users\Андрей\Desktop\OOPlaba4\OOPlaba4\bin\Debug\ClassLibrary2.dll
+C:\Users\Андрей\Desktop\OOPlaba4\OOPlaba4\bin\Debug\ClassLibrary3.dll
+C:\Users\Андрей\Desktop\OOPlaba4\OOPlaba4\bin\Debug\ClassLibrary4.dll
+C:\Users\Андрей\Desktop\OOPlaba4\OOPlaba4\bin\Debug\ClassLibrary5.dll
+C:\Users\Андрей\Desktop\OOPlaba4\OOPlaba4\bin\Debug\ClassLibrary6.dll
+C:\Users\Андрей\Desktop\OOPlaba4\OOPlaba4\bin\Debug\ClassLibrary7.dll
+C:\Users\Андрей\Desktop\oop5\OOPlaba4\bin\Debug\OOPlaba4.exe.config
+C:\Users\Андрей\Desktop\oop5\OOPlaba4\obj\Debug\OOPlaba4.exe
+C:\Users\Андрей\Desktop\oop5\OOPlaba4\obj\Debug\OOPlaba4.pdb
+C:\Users\Андрей\Desktop\oop5\OOPlaba4\bin\Debug\OOPlaba4.exe
+C:\Users\Андрей\Desktop\oop5\OOPlaba4\bin\Debug\OOPlaba4.pdb
+C:\Users\Андрей\Desktop\oop5\OOPlaba4\bin\Debug\ClassLibrary2.dll
+C:\Users\Андрей\Desktop\oop5\OOPlaba4\bin\Debug\ClassLibrary3.dll
+C:\Users\Андрей\Desktop\oop5\OOPlaba4\bin\Debug\ClassLibrary4.dll
+C:\Users\Андрей\Desktop\oop5\OOPlaba4\bin\Debug\ClassLibrary5.dll
+C:\Users\Андрей\Desktop\oop5\OOPlaba4\bin\Debug\ClassLibrary6.dll
+C:\Users\Андрей\Desktop\oop5\OOPlaba4\bin\Debug\ClassLibrary7.dll
+C:\Users\Андрей\Desktop\oop5\OOPlaba4\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Андрей\Desktop\oop5\OOPlaba4\bin\Debug\Weapons.dll
+C:\Users\Андрей\Desktop\oop5\OOPlaba4\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Андрей\Desktop\oop5\OOPlaba4\bin\Debug\Weapons.pdb
+C:\Users\Андрей\Desktop\oop5\OOPlaba4\obj\Debug\MainWindow.baml
+C:\Users\Андрей\Desktop\oop5\OOPlaba4\obj\Debug\MainWindow.g.cs
+C:\Users\Андрей\Desktop\oop5\OOPlaba4\obj\Debug\App.g.cs
+C:\Users\Андрей\Desktop\oop5\OOPlaba4\obj\Debug\OOPlaba4_MarkupCompile.cache
+C:\Users\Андрей\Desktop\oop5\OOPlaba4\obj\Debug\OOPlaba4.g.resources
+C:\Users\Андрей\Desktop\oop5\OOPlaba4\obj\Debug\OOPlaba4.Properties.Resources.resources
+C:\Users\Андрей\Desktop\oop5\OOPlaba4\obj\Debug\OOPlaba4.csproj.GenerateResource.Cache
+C:\Users\Андрей\Desktop\oop5\OOPlaba4\bin\Debug\TegForExtensions.dll
+C:\Users\Андрей\Desktop\oop5\OOPlaba4\bin\Debug\TegForExtensions.pdb
+C:\Users\Андрей\Desktop\oop5\OOPlaba4\obj\Debug\OOPlaba4.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Desktop\oop5\OOPlaba4\bin\Debug\Extension.dll
+C:\Users\Андрей\Desktop\oop5\OOPlaba4\bin\Debug\Extension.pdb
+C:\Users\Андрей\Desktop\oop5\OOPlaba4\bin\Debug\Interfaces.dll
+C:\Users\Андрей\Desktop\oop5\OOPlaba4\bin\Debug\Interfaces.pdb
+C:\Users\Андрей\Desktop\oop5\OOPlaba4\bin\Debug\AboutInterfaceComparers.dll
+C:\Users\Андрей\Desktop\oop5\OOPlaba4\bin\Debug\AboutInterfaceComparers.pdb
+C:\Users\Андрей\Desktop\oop5_optimized\OOPlaba4\bin\Debug\OOPlaba4.exe.config
+C:\Users\Андрей\Desktop\oop5_optimized\OOPlaba4\obj\Debug\OOPlaba4.exe
+C:\Users\Андрей\Desktop\oop5_optimized\OOPlaba4\obj\Debug\OOPlaba4.pdb
+C:\Users\Андрей\Desktop\oop5_optimized\OOPlaba4\bin\Debug\OOPlaba4.exe
+C:\Users\Андрей\Desktop\oop5_optimized\OOPlaba4\bin\Debug\OOPlaba4.pdb
+C:\Users\Андрей\Desktop\oop5_optimized\OOPlaba4\bin\Debug\AboutInterfaceComparers.dll
+C:\Users\Андрей\Desktop\oop5_optimized\OOPlaba4\bin\Debug\ClassLibrary2.dll
+C:\Users\Андрей\Desktop\oop5_optimized\OOPlaba4\bin\Debug\ClassLibrary3.dll
+C:\Users\Андрей\Desktop\oop5_optimized\OOPlaba4\bin\Debug\ClassLibrary4.dll
+C:\Users\Андрей\Desktop\oop5_optimized\OOPlaba4\bin\Debug\ClassLibrary5.dll
+C:\Users\Андрей\Desktop\oop5_optimized\OOPlaba4\bin\Debug\ClassLibrary6.dll
+C:\Users\Андрей\Desktop\oop5_optimized\OOPlaba4\bin\Debug\ClassLibrary7.dll
+C:\Users\Андрей\Desktop\oop5_optimized\OOPlaba4\bin\Debug\Extension.dll
+C:\Users\Андрей\Desktop\oop5_optimized\OOPlaba4\bin\Debug\Interfaces.dll
+C:\Users\Андрей\Desktop\oop5_optimized\OOPlaba4\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Андрей\Desktop\oop5_optimized\OOPlaba4\bin\Debug\TegForExtensions.dll
+C:\Users\Андрей\Desktop\oop5_optimized\OOPlaba4\bin\Debug\Weapons.dll
+C:\Users\Андрей\Desktop\oop5_optimized\OOPlaba4\bin\Debug\AboutInterfaceComparers.pdb
+C:\Users\Андрей\Desktop\oop5_optimized\OOPlaba4\bin\Debug\Extension.pdb
+C:\Users\Андрей\Desktop\oop5_optimized\OOPlaba4\bin\Debug\Interfaces.pdb
+C:\Users\Андрей\Desktop\oop5_optimized\OOPlaba4\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Андрей\Desktop\oop5_optimized\OOPlaba4\bin\Debug\TegForExtensions.pdb
+C:\Users\Андрей\Desktop\oop5_optimized\OOPlaba4\bin\Debug\Weapons.pdb
+C:\Users\Андрей\Desktop\oop5_optimized\OOPlaba4\obj\Debug\OOPlaba4.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Desktop\oop5_optimized\OOPlaba4\obj\Debug\MainWindow.baml
+C:\Users\Андрей\Desktop\oop5_optimized\OOPlaba4\obj\Debug\MainWindow.g.cs
+C:\Users\Андрей\Desktop\oop5_optimized\OOPlaba4\obj\Debug\App.g.cs
+C:\Users\Андрей\Desktop\oop5_optimized\OOPlaba4\obj\Debug\OOPlaba4_MarkupCompile.cache
+C:\Users\Андрей\Desktop\oop5_optimized\OOPlaba4\obj\Debug\OOPlaba4.g.resources
+C:\Users\Андрей\Desktop\oop5_optimized\OOPlaba4\obj\Debug\OOPlaba4.Properties.Resources.resources
+C:\Users\Андрей\Desktop\oop5_optimized\OOPlaba4\obj\Debug\OOPlaba4.csproj.GenerateResource.Cache
+C:\Users\Андрей\Desktop\oop6\OOPlaba4\bin\Debug\OOPlaba4.exe.config
+C:\Users\Андрей\Desktop\oop6\OOPlaba4\obj\Debug\OOPlaba4.exe
+C:\Users\Андрей\Desktop\oop6\OOPlaba4\obj\Debug\OOPlaba4.pdb
+C:\Users\Андрей\Desktop\oop6\OOPlaba4\obj\Debug\OOPlaba4.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Desktop\oop6\OOPlaba4\obj\Debug\MainWindow.baml
+C:\Users\Андрей\Desktop\oop6\OOPlaba4\obj\Debug\MainWindow.g.cs
+C:\Users\Андрей\Desktop\oop6\OOPlaba4\obj\Debug\App.g.cs
+C:\Users\Андрей\Desktop\oop6\OOPlaba4\obj\Debug\OOPlaba4_MarkupCompile.cache
+C:\Users\Андрей\Desktop\oop6\OOPlaba4\obj\Debug\OOPlaba4.g.resources
+C:\Users\Андрей\Desktop\oop6\OOPlaba4\obj\Debug\OOPlaba4.Properties.Resources.resources
+C:\Users\Андрей\Desktop\oop6\OOPlaba4\obj\Debug\OOPlaba4.csproj.GenerateResource.Cache
+C:\Users\Андрей\Desktop\oop6\OOPlaba4\bin\Debug\OOPlaba4.exe
+C:\Users\Андрей\Desktop\oop6\OOPlaba4\bin\Debug\OOPlaba4.pdb
+C:\Users\Андрей\Desktop\oop6\OOPlaba4\bin\Debug\AboutInterfaceComparers.dll
+C:\Users\Андрей\Desktop\oop6\OOPlaba4\bin\Debug\ClassLibrary2.dll
+C:\Users\Андрей\Desktop\oop6\OOPlaba4\bin\Debug\ClassLibrary3.dll
+C:\Users\Андрей\Desktop\oop6\OOPlaba4\bin\Debug\ClassLibrary4.dll
+C:\Users\Андрей\Desktop\oop6\OOPlaba4\bin\Debug\ClassLibrary5.dll
+C:\Users\Андрей\Desktop\oop6\OOPlaba4\bin\Debug\ClassLibrary6.dll
+C:\Users\Андрей\Desktop\oop6\OOPlaba4\bin\Debug\ClassLibrary7.dll
+C:\Users\Андрей\Desktop\oop6\OOPlaba4\bin\Debug\Extension.dll
+C:\Users\Андрей\Desktop\oop6\OOPlaba4\bin\Debug\Interfaces.dll
+C:\Users\Андрей\Desktop\oop6\OOPlaba4\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Андрей\Desktop\oop6\OOPlaba4\bin\Debug\TegForExtensions.dll
+C:\Users\Андрей\Desktop\oop6\OOPlaba4\bin\Debug\Weapons.dll
+C:\Users\Андрей\Desktop\oop6\OOPlaba4\bin\Debug\AboutInterfaceComparers.pdb
+C:\Users\Андрей\Desktop\oop6\OOPlaba4\bin\Debug\Extension.pdb
+C:\Users\Андрей\Desktop\oop6\OOPlaba4\bin\Debug\Interfaces.pdb
+C:\Users\Андрей\Desktop\oop6\OOPlaba4\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Андрей\Desktop\oop6\OOPlaba4\bin\Debug\TegForExtensions.pdb
+C:\Users\Андрей\Desktop\oop6\OOPlaba4\bin\Debug\Weapons.pdb
+C:\Users\Андрей\Desktop\oop6\OOPlaba4\bin\Debug\HashInterface.dll
+C:\Users\Андрей\Desktop\oop6\OOPlaba4\bin\Debug\HashInterface.pdb
